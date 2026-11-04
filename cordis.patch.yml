@@ -1,0 +1,3 @@
+- insert:
+    - id: llm-qoder-cn
+      name: dsh-qoder-bridge
